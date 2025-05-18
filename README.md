@@ -11,3 +11,5 @@ To build Tetris:
 You may have to use CLion (or maybe run cmake in the extension subfolder)
 We've found that cmake is the most reliable way of building and running tetris 
 across most machines.
+
+Credit to group members [Ahmad Jamsari](https://github.com/Terairk), Dominic Ng, and Sahil Rahman
